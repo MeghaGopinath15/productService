@@ -15,7 +15,7 @@ public class HelloController
             String answer = "";
             for(int i=0;i<age;i++)
             {
-                answer+= "hello "+name;
+                answer+= "hello Kushi "+name;
                 answer+= "<br>";
             }
             return answer;
